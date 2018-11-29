@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="app_name">WikipediA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="query_hint">Search Wikipedia</string>
+    <string name="article1">Article 1</string>
+    <string name="article2">Article 2</string>
+    <string name="article3">Article 3</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="random">Random Article</string>
+    <string name="title_article1">World Series</string>
+    <string name="title_article2">Animal</string>
+    <string name="title_article3">Statue of Liberty</string>
+    <string name="content_article3">The Statue of Liberty (Liberty Enlightening the World; French: La Liberté éclairant le monde) is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and built by Gustave Eiffel. The statue was dedicated on October 28, 1886.The Statue of Liberty is a figure of a robed woman representing Libertas, a Roman liberty goddess. She holds a torch above her head with her right hand, and in her left hand carries a tabula ansata inscribed in Roman numerals with "JULY IV MDCCLXXVI" (July 4, 1776), the date of the U.S. Declaration of Independence. A broken chain lies at her feet as she walks forward. The statue became an icon of freedom and of the United States, and was a welcoming sight to immigrants arriving from abroad. Bartholdi was inspired by a French law professor and politician, Édouard René de Laboulaye, who is said to have commented in 1865 that any monument raised to U.S. independence would properly be a joint project of the French and U.S. peoples. Because of the post-war instability in France, work on the statue did not commence until the early 1870s. In 1875, Laboulaye proposed that the French finance the statue and the U.S. provide the site and build the pedestal. Bartholdi completed the head and the torch-bearing arm before the statue was fully designed, and these pieces were exhibited for publicity at international expositions. </string>
+    <string name="content_article2">S. serrator is a parasitoid of the larvae of wood-boring beetles. Despite being able to fly, these wasps usually move about by walking and usually avoid sunlight. Spiders such as Nuctenea umbratica and Parasteatoda spp. sometimes feed on the wasps, but the wasps usually manage to evade them. Female wasps that are trying to locate beetle larvae in wood adopt a characteristic posture with fore and hind legs spread widely, middle legs folded tightly against the body, antennae lowered and ovipositor sheath pressed against the wood; they then move a few centimetres to a new location and repeat the process. When a potential target is located, the ovipositor is bored into the substrate. Boring may take many hours, with rests in between the boring efforts, at which times the females withdraw their ovipositors.[4] They seem to be able to re-locate the hole they were working on when they recommence boring. As the ovipositor is pushed deeper into the wood, the sheath arches upwards in a loop.[4]The eggs are laid in the galleries created by the beetle larvae. The developing wasp larvae feed on the beetle larvae, rejecting the most heavily chitinised parts. When fully developed they pupate in the galleries left by the beetle larvae. Male wasps emerge some ten days before the females and adopt a similar search posture, perhaps waiting for the females to emerge.[4] </string>
+    <string name="content_article1">The 2009 World Series was the championship series of Major League Baseball\'s (MLB) 2009 season. As the 105th[1] edition of the World Series, it was a best-of-seven playoff contested between the Philadelphia Phillies, champions of the National League (NL) and defending World Series champions, and the New York Yankees, champions of the American League (AL). The Yankees defeated the Phillies, 4 games to 2, winning their 27th World Series championship. The series was played between October 28 and November 4, broadcast on Fox, and watched by an average of roughly 19 million viewers. Due to the start of the season being pushed back by the 2009 World Baseball Classic in March, this was the first World Series regularly scheduled to be played into the month of November. This series was a rematch of the 1950 World Series. With both teams having symbols of American Liberty (The Statue of Liberty for New York and The Liberty Bell in Philadelphia) the Series was given the nickname, the "Liberty Series" by some.[2]</string>
+    <string name="log_in_title">Log in to your account</string>
+    <string name="dont_have_account">Don\'t have an account? </string>
+    <string name="join_wiki">Join Wikipedia.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_pass">Forgot your password?</string>
+    <string name="log_in_button">Log in</string>
+    <string name="create_account_title">Create a new account</string>
+    <string name="have_account">Already have an account? </string>
+    <string name="log_in">Log in.</string>
+    <string name="confirm_pass">Confirm password</string>
+    <string name="email">Email</string>
+    <string name="create_account_button">Create your account</string>
+    <string name="reset_pass_title">Reset password</string>
+    <string name="fill_in">fill in one of the fields below to receive password reset
+        instructions via email</string>
+    <string name="or">Or</string>
+    <string name="reset_button">Reset</string>
+    <string name="edit_button">Edit</string>
+    <string name="description">Description</string>
+    <string name="other">Other</string>
+    <string name="None">Null</string>
+    <string name="full_article">full article</string>
+    <string name="welcome">Welcome</string>
+    <string name="today_page">Today</string>
+    <string name="yesterday_page">Yesterday</string>
+    <string name="random_page">Random</string>
+    <string name="category">Category</string>
+    <string name="loadmore">Please wait ...</string>
+    <string name="more">more result</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+    <string name="history">History</string>
+    <string name="saved">Saved</string>
+    <string name="settings">Settings</string>
+    <string name="list_all">LIST ALL</string>
+    <string name="app_name_1">Wikipedia</string>
+</resources>
